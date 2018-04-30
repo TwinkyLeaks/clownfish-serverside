@@ -1,0 +1,34 @@
+{
+  "name": "clownfish-serverside",
+  "version": "1.0.0",
+  "description": "Server based on NodeJS and fraemwork Express for application \"Clownfish\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwinkyLeaks/clownfish-serverside.git"
+  },
+  "keywords": [
+    "nodejs",
+    "clownfish",
+    "js",
+    "express",
+    "mongodb"
+  ],
+  "author": "Artemiy Morozov",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TwinkyLeaks/clownfish-serverside/issues"
+  },
+  "homepage": "https://github.com/TwinkyLeaks/clownfish-serverside#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
